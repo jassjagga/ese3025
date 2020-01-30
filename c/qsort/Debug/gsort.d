@@ -1,0 +1,1 @@
+gsort.o: ../gsort.c
